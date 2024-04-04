@@ -21,6 +21,8 @@ export default function Home() {
               priority
             />
           </a>
+
+          
         </div>
         <p className="fixed bottom-0 left-0 flex w-full items-end justify-center pb-6 pt-8 lg:static lg:w-auto lg:p-4">
           Finance, Grants and Contracts Management &nbsp;
